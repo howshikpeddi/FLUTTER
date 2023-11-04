@@ -1,0 +1,20 @@
+void main(){
+ // Variables
+ // <datatype> <variblename> = value;
+  int firstvalue = 12;
+  
+  int secondvalue = 20;
+  
+  print(firstvalue+secondvalue);
+  
+  print(firstvalue-secondvalue);
+  
+  print(firstvalue*secondvalue);
+  
+  print(firstvalue%secondvalue);
+  
+  print(firstvalue/secondvalue);
+    
+}
+    
+  
