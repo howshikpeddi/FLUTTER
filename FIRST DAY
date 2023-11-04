@@ -1,0 +1,17 @@
+void main() {
+  // Variables
+  
+  //First value
+  
+  print(5);
+  
+  //Second value
+  
+  print(9);
+  
+  print(5+9);
+  
+  print(5-9);
+  
+  print(5*9);
+}
